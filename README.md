@@ -8,10 +8,10 @@ Assume that you are attending a TV show where you can win money by picking the r
 
 ### Build
 Build with maven
-  mvn clean build
+>  mvn clean build
 
 ### Start
 Start program with
-  java -jar target/*.jar
+>  java -jar target/*.jar
 
 
